@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "sass": "^1.38.2"
+  },
+  "scripts":{
+    "sass": "sass scss/style.css css/style.css --no-souce-map"
+  }
+}

@@ -1,0 +1,18 @@
+body {
+  background: greenyellow; }
+  body .main_content {
+    display: flex;
+    height: 123vh;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly; }
+    body .main_content .main_contet__heading {
+      padding: 100px;
+      box-sizing: border-box;
+      border: 1px solid red; }
+    body .main_content .main_content__description {
+      padding: 100px;
+      border: 1px solid green;
+      box-sizing: border-box; }
+
+/*# sourceMappingURL=style.css.map */
